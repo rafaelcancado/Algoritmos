@@ -1,2 +1,2 @@
 # Algoritmos
-Esse repositório é para o armazenamento de programas criados na aula de TP1
+Esse repositório é para o armazenamento de algoritmos
