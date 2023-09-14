@@ -7,7 +7,7 @@ int main()
     printf("Digite seu nome: ");
     scanf("%s", nome);
     
-    printf("Seu nome é %s" , nome);
+    printf("Olá %s" , nome);
 
     return 0;
 }
