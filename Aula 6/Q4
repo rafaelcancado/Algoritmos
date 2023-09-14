@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+int main()
+{
+    int prod;
+    float dsc, prct;
+    
+    printf("Digite o preço do produto: ");
+    scanf("%d", &prod);
+    
+    dsc = 0.95;
+    prct = prod * dsc;
+    
+    printf("O preço com desconto é %f", prct);
+    
+    
+    
+    
+    
+    
+
+    return 0;
+}
