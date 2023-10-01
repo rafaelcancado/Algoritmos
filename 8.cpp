@@ -1,0 +1,36 @@
+/******************************************************************************
+
+Welcome to GDB Online.
+  GDB online is an online compiler and debugger tool for C, C++, Python, PHP, Ruby, 
+  C#, OCaml, VB, Perl, Swift, Prolog, Javascript, Pascal, COBOL, HTML, CSS, JS
+  Code, Compile, Run and Debug online from anywhere in world.
+
+*******************************************************************************/
+ 
+ #include <stdio.h>
+
+
+int main()
+{
+    float km, mil;
+    
+    printf("Insira a distância em km a ser convertida: ");
+    scanf("%f", &km);
+    
+    mil = km * 0.621371;
+    
+    printf("A distância em milhas é %f", mil);
+    
+
+return 0;
+    
+    
+}
+
+
+
+
+
+
+
+
